@@ -1,3 +1,3 @@
 # 25049---AZ-Heat
 
-This is the GitHub we will use for project management 
+Git hub for the YOLO detection and the coordiantes code. 
